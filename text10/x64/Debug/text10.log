@@ -1,0 +1,5 @@
+﻿  text10.c
+G:\C++_Text\text10\text10\text10.c(22,9): warning C4477: “printf”: 格式字符串“%zd”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“int”
+G:\C++_Text\text10\text10\text10.c(22,9): message : 请考虑在格式字符串中使用“%d”
+G:\C++_Text\text10\text10\text10.c(22,9): message : 请考虑在格式字符串中使用“%I32d”
+  text10.vcxproj -> G:\C++_Text\text10\x64\Debug\text10.exe
